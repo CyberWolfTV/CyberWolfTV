@@ -1,6 +1,6 @@
 ## Hi
 - Im Timm
-- Im 19yo, studying Computer Science (Bsc.)
+- Im 20yo, studying Computer Science (Bsc.)
 - GNU/Linux
 
 ### Some of my stats:
